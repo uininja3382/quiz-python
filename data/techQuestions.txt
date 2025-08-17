@@ -1,0 +1,50 @@
+Q: Who is the founder of Microsoft? | A: Bill Gates
+Q: Who is the CEO of Tesla? | A: Elon Musk
+Q: What does CPU stand for? | A: Central Processing Unit
+Q: What does RAM stand for? | A: Random Access Memory
+Q: Which company created the iPhone? | A: Apple
+Q: What programming language is primarily used for Android development? | A: Java
+Q: What is the name of the first computer virus? | A: Creeper
+Q: What does HTML stand for? | A: HyperText Markup Language
+Q: What year was the World Wide Web invented? | A: 1989
+Q: Who founded Facebook? | A: Mark Zuckerberg
+Q: What does URL stand for? | A: Uniform Resource Locator
+Q: What is the most popular programming language in 2024? | A: Python
+Q: Which company developed Windows OS? | A: Microsoft
+Q: What does AI stand for? | A: Artificial Intelligence
+Q: What is the full form of SQL? | A: Structured Query Language
+Q: What does HTTP stand for? | A: HyperText Transfer Protocol
+Q: Who is the CEO of Google? | A: Sundar Pichai
+Q: What does GPU stand for? | A: Graphics Processing Unit
+Q: What is the full form of BIOS? | A: Basic Input Output System
+Q: What does PDF stand for? | A: Portable Document Format
+Q: What is the most used search engine in the world? | A: Google
+Q: Which company owns GitHub? | A: Microsoft
+Q: What is the most widely used operating system for PCs? | A: Windows
+Q: What does IoT stand for? | A: Internet of Things
+Q: Who developed the Linux kernel? | A: Linus Torvalds
+Q: What does DNS stand for? | A: Domain Name System
+Q: What is the most popular version control system? | A: Git
+Q: What is the full form of API? | A: Application Programming Interface
+Q: What is the name of the world’s first computer? | A: ENIAC
+Q: What programming language is used for iOS apps? | A: Swift
+Q: What does VPN stand for? | A: Virtual Private Network
+Q: Which social media platform was first created in 2006? | A: Twitter
+Q: What does SaaS stand for? | A: Software as a Service
+Q: What does USB stand for? | A: Universal Serial Bus
+Q: What company developed the Android OS? | A: Google
+Q: What does SSL stand for? | A: Secure Sockets Layer
+Q: What is the full form of IP in networking? | A: Internet Protocol
+Q: Which company developed the Java programming language? | A: Sun Microsystems
+Q: What does LAN stand for? | A: Local Area Network
+Q: What does WAN stand for? | A: Wide Area Network
+Q: Who is known as the father of the internet? | A: Vint Cerf
+Q: What does ASCII stand for? | A: American Standard Code for Information Interchange
+Q: What is the name of the world’s most popular web browser? | A: Google Chrome
+Q: Which programming language is used for data science the most? | A: Python
+Q: What is the full form of JSON? | A: JavaScript Object Notation
+Q: Which company developed the C programming language? | A: Bell Labs
+Q: What does DNS resolve? | A: Domain names to IP addresses
+Q: What does CDN stand for? | A: Content Delivery Network
+Q: What is the most popular cloud provider in 2024? | A: Amazon Web Services (AWS)
+Q: What does GUI stand for? | A: Graphical User Interface

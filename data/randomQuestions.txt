@@ -1,0 +1,50 @@
+Q: What is the capital of France? | A: Paris
+Q: Who wrote "Romeo and Juliet"? | A: William Shakespeare
+Q: What is the largest mammal in the world? | A: Blue Whale
+Q: Which planet is known as the Red Planet? | A: Mars
+Q: How many continents are there? | A: 7
+Q: Who painted the Mona Lisa? | A: Leonardo da Vinci
+Q: What is the national sport of Japan? | A: Sumo Wrestling
+Q: What is the boiling point of water in Celsius? | A: 100
+Q: Which is the fastest land animal? | A: Cheetah
+Q: Who discovered gravity? | A: Isaac Newton
+Q: How many players are on a soccer team (on field)? | A: 11
+Q: What is the currency of the USA? | A: Dollar
+Q: What is the tallest mountain in the world? | A: Mount Everest
+Q: Who was the first man on the moon? | A: Neil Armstrong
+Q: Which ocean is the largest? | A: Pacific Ocean
+Q: What is the chemical symbol for gold? | A: Au
+Q: What is the capital of Australia? | A: Canberra
+Q: Which bird is a universal symbol of peace? | A: Dove
+Q: Who is known as the father of computers? | A: Charles Babbage
+Q: What is the national animal of India? | A: Bengal Tiger
+Q: How many sides does a hexagon have? | A: 6
+Q: Which gas do humans breathe in to survive? | A: Oxygen
+Q: What is the fastest bird in the world? | A: Peregrine Falcon
+Q: Who is the author of "Harry Potter"? | A: J.K. Rowling
+Q: Which is the smallest country in the world? | A: Vatican City
+Q: How many bones are in the adult human body? | A: 206
+Q: What is the largest desert in the world? | A: Sahara Desert
+Q: What is the currency of Japan? | A: Yen
+Q: Who invented the light bulb? | A: Thomas Edison
+Q: Which blood type is known as the universal donor? | A: O negative
+Q: How many planets are in the solar system? | A: 8
+Q: What is the national flower of the USA? | A: Rose
+Q: Which continent is known as the Dark Continent? | A: Africa
+Q: Who discovered penicillin? | A: Alexander Fleming
+Q: What is the square root of 64? | A: 8
+Q: Which is the longest river in the world? | A: Nile River
+Q: What is the capital of Canada? | A: Ottawa
+Q: How many colors are there in a rainbow? | A: 7
+Q: Who was the first President of the USA? | A: George Washington
+Q: Which fruit is known as the king of fruits? | A: Mango
+Q: Which language has the most native speakers? | A: Mandarin Chinese
+Q: What is the chemical formula of water? | A: H2O
+Q: Who wrote "The Odyssey"? | A: Homer
+Q: What is the national game of Canada? | A: Ice Hockey
+Q: Which instrument measures earthquakes? | A: Seismograph
+Q: What is the capital of Italy? | A: Rome
+Q: Which is the largest internal organ in the human body? | A: Liver
+Q: What is the hardest natural substance on Earth? | A: Diamond
+Q: How many degrees are in a circle? | A: 360
+Q: Who invented the telephone? | A: Alexander Graham Bell
