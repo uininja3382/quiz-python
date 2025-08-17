@@ -37,11 +37,15 @@ class Quiz:
             print("There are no questions for this Quiz")
             return
         questions_container = QuestionsHub(self.questions_type, self.no_of_questions)
+        questions_list = questions_container.generate_questions()
         answers = []
-        for i, question in enumerate(questions_container.generate_questions()):
-            question_text, answer = question.split("|")
-            answer_text = answer.split(":", 1)[1].strip()
-            answers.append(input(question_text))
-            if answers[i] == answer_text:
-                self.score += 1
-        Quiz.print_results(self.score, self.no_of_questions)
+        if len(questions_list) != 0:
+            for i, question in enumerate(questions_container.generate_questions()):
+                question_text, answer = question.split("|")
+                answer_text = answer.split(":", 1)[1].strip()
+                answers.append(input(question_text))
+                if answers[i] == answer_text:
+                    self.score += 1
+            Quiz.print_results(self.score, self.no_of_questions)
+        else:
+            return

@@ -1,5 +1,5 @@
 from quizutils.Quiz import Quiz
 
-randomQuiz = Quiz("movies", 2)
+randomQuiz = Quiz("Movies", 2)
 print(randomQuiz.__repr__())
 randomQuiz.startQuiz()

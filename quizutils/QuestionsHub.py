@@ -3,6 +3,7 @@ from pathlib import Path
 
 class QuestionsHub:
     no_of_instances: int = 0
+    available_questions_list = ["movies", "random", "tech"]
 
     def __init__(self, question_type: str, no_of_questions: int) -> None:
         self.question_type = question_type
@@ -20,11 +21,18 @@ class QuestionsHub:
         return f"QuestionsHub(questionsType={self.question_type},noOfQuestions={self.no_of_questions})"
 
     def generate_questions(self) -> list[str]:
-        file_path = Path.cwd() / "data" / "moviesQuestions.txt"
-        try:
-            with file_path.open("r", encoding="utf-8") as file:
-                questions_list = [line.strip() for line in file.readlines()]
-                return questions_list[0 : self.no_of_questions]
-        except FileNotFoundError as error:
-            print(error)
+        if self.question_type.lower() in __class__.available_questions_list:
+
+            file_path = (
+                Path.cwd() / "data" / f"{self.question_type.lower()}Questions.txt"
+            )
+            try:
+                with file_path.open("r", encoding="utf-8") as file:
+                    questions_list = [line.strip() for line in file.readlines()]
+                    return questions_list[0 : self.no_of_questions]
+            except FileNotFoundError as error:
+                print(error)
+                return []
+        else:
+            print("No Question Models available for this type")
             return []
